@@ -1,0 +1,1 @@
+# validus_case_study
